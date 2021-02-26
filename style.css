@@ -190,7 +190,7 @@
   .schedule1{
     background-color: #FFFFFF;
     width: 440px;
-    height: 515px;
+    height: 755px;
     border-radius: 10px;
     border: 1px solid #ECECF1;
   }
@@ -243,6 +243,12 @@
     align-content: center;
   }
 
+  .info-icon{
+    color: #9097A4;
+    height: 17px;
+    margin-left: 200px;
+  }
+
   p{
     font-family: sofiapro-light;
     font-weight: 300;
@@ -286,4 +292,42 @@
   .right-info{
     align-content: center;
     margin-top: 30px;
+  }
+
+  .course{
+    width: 386px;
+    height: 90px;
+    border: 1px solid #ECECF1;
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.1);
+    margin: 20px;
+  }
+
+  .easy{
+    border-left:  12px solid #11A958;
+  }
+
+  .course-info{
+    margin-left: 20px;
+    margin-top: 6px;
+  }
+
+  .course-code{
+    font-family: sofiapro-reg;
+    font-size: 24px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .course-name{
+    font-family: sofiapro-light;
+    font-size: 18px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+  }
+
+  .hours{
+    color: #9097A4;
+    font-size: 18px;
+    margin-top: 1px;
   }
