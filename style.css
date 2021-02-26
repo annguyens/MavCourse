@@ -199,7 +199,7 @@
     background-color: #FFFFFF;
     width: 440px;
     margin-left: 80px;
-    height: 515px;
+    height: 755px;
     border-radius: 10px;
     border: 1px solid #ECECF1;
   }
@@ -280,7 +280,7 @@
     margin-bottom: 10px;
   }
 
-  .fa-moon{
+  .fa-moon, .fa-sun{
     margin-right: 10px;
   }
 
@@ -305,6 +305,15 @@
 
   .easy{
     border-left:  12px solid #11A958;
+  }
+
+  .medium{
+    border-left:  12px solid #FFC600;
+
+  }
+
+  .hard{
+    border-left:  12px solid #fd3900;
   }
 
   .course-info{
